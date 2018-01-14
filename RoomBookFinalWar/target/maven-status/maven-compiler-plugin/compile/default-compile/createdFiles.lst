@@ -1,5 +1,4 @@
 com\psl\controller\AddLocationController.class
-com\psl\util\HibernateUtil.class
 com\psl\controller\BookRoomController.class
 com\psl\dao\BookingDao.class
 com\psl\entity\Status.class
