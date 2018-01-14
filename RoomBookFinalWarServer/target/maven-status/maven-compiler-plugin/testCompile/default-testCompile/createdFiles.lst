@@ -1,0 +1,5 @@
+com\psl\tests\RoomTest.class
+com\psl\tests\TrainingDetailsTest.class
+com\psl\tests\UserIT.class
+com\psl\tests\LocationTest.class
+com\psl\tests\BookingTest.class

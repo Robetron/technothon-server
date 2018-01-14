@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry excluding="main/java/|test/java/|main/resources/" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_45">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0 (3)">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/JAVA Soft/Hibernate/mysql-connector-java-5.1.15-bin.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/Hibernate/HibernateJars/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/Hibernate/HibernateJars/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/Hibernate/HibernateJars/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/Hibernate/HibernateJars/commons-logging-api-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/Hibernate/HibernateJars/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/Hibernate/HibernateJars/ehcache-1.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/Hibernate/HibernateJars/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/Hibernate/HibernateJars/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/Hibernate/HibernateJars/javassist-3.12.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/Hibernate/HibernateJars/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/Hibernate/HibernateJars/mysql-connector-java-5.1.16-bin.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/Jar/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/activemq-all-5.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/com.springsource.com.caucho-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/com.springsource.javassist-3.3.0.ga.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/com.springsource.javax.activation-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/com.springsource.javax.ejb-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/com.springsource.javax.jms-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/com.springsource.javax.mail-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/com.springsource.javax.persistence-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/com.springsource.javax.resource-1.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/com.springsource.javax.servlet.jsp.jstl-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/com.springsource.javax.transaction-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/com.springsource.javax.validation-1.0.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/com.springsource.javax.xml.bind-2.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/com.springsource.javax.xml.rpc-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/com.springsource.javax.xml.soap-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/com.springsource.javax.xml.stream-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/com.springsource.net.sf.cglib-2.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/com.springsource.net.sf.ehcache-1.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/com.springsource.org.aopalliance-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/com.springsource.org.apache.axis-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/com.springsource.org.apache.commons.beanutils-1.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/com.springsource.org.apache.commons.codec-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/com.springsource.org.apache.commons.collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/com.springsource.org.apache.commons.dbcp-1.2.2.osgi.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/com.springsource.org.apache.commons.digester-1.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/com.springsource.org.apache.commons.fileupload-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/com.springsource.org.apache.commons.io-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/com.springsource.org.apache.commons.lang-2.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/com.springsource.org.apache.commons.logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/com.springsource.org.apache.commons.net-1.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/com.springsource.org.apache.commons.pool-1.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/com.springsource.org.apache.log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/com.springsource.org.apache.struts-1.2.9.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/com.springsource.org.apache.taglibs.standard-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/com.springsource.org.apache.velocity-1.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/com.springsource.org.codehaus.jackson-1.4.2.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/com.springsource.org.dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/com.springsource.org.hibernate.annotations.common-3.3.0.ga.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/com.springsource.org.hibernate.annotations-3.4.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/com.springsource.org.hibernate.ejb-3.4.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/com.springsource.org.hibernate.validator-4.0.2.GA.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/com.springsource.org.hibernate-3.3.1.GA.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/com.springsource.org.jboss.logging-2.0.5.GA.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/com.springsource.org.quartz-1.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/com.springsource.slf4j.api-1.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/com.springsource.slf4j.jcl-1.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/jackson-core-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/jta1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/mysql-connector-java-5.0.7-bin.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/org.springframework.aop-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/org.springframework.asm-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/org.springframework.aspects-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/org.springframework.beans-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/org.springframework.context.support-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/org.springframework.context-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/org.springframework.core-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/org.springframework.expression-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/org.springframework.instrument.tomcat-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/org.springframework.instrument-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/org.springframework.integration.adapter-1.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/org.springframework.integration.event-1.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/org.springframework.integration.file-1.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/org.springframework.integration.http-1.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/org.springframework.integration.httpinvoker-1.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/org.springframework.integration.jms-1.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/org.springframework.integration.mail-1.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/org.springframework.integration.rmi-1.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/org.springframework.integration.security-1.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/org.springframework.integration.stream-1.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/org.springframework.integration.ws-1.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/org.springframework.integration.xml-1.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/org.springframework.integration-1.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/org.springframework.jdbc-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/org.springframework.jms-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/org.springframework.orm-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/org.springframework.oxm-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/org.springframework.transaction-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/org.springframework.web.portlet-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/org.springframework.web.servlet-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/org.springframework.web.struts-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/org.springframework.web-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/spring-batch-core-2.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/spring-batch-infrastructure-2.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/spring-modules-cache.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/spring-security-acl-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/spring-security-aspects-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/spring-security-cas-client-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/spring-security-config-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/spring-security-core-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/spring-security-openid-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/spring-security-taglibs-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/spring-security-web-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/tiles-api-2.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/tiles-core-2.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/tiles-jsp-2.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/tiles-servlet-2.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/tiles-template-2.2.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/spring-test-4.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/SpringJars/org.springframework.test-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JAVA Soft/Jar/mockito-all-1.10.19.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
