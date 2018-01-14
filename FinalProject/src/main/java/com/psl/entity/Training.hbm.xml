@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+	"-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+	"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+
+
+<hibernate-mapping>
+	<class name="com.rbc.entity.User" table="training_table">
+		<id name="trainingID" column="training_id">
+			<generator class="native"></generator>
+		</id>
+		<property name="employeeID" column="employee_id"></property>
+		<property name="startDate" column="start_date"></property>
+
+		<property name="endDate" column="end_date"></property>
+		<property name="trainingType" column="training_date"></property>
+		<property name="startTime" column="start_time"></property>
+		<property name="endTime" column="end_time"></property>
+		<property name="roomID" column="room_id"></property>
+	</class>
+
+</hibernate-mapping>
