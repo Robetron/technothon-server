@@ -1,2 +1,2 @@
 # technothon-server
-Technothon 2k18
+Technothon  2k18
