@@ -1,2 +1,1 @@
 # technothon-server
-ttt
