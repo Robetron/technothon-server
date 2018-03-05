@@ -1,2 +1,1 @@
 # technothon-server
-Narayani namostute
